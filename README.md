@@ -39,7 +39,7 @@ Each IP is limited to 100 requests per 15 minutes
 If you would like to set up your own version of this API:<br/>
 
 <ul>
-<li>Clone or download the repository at https://github.com/asafhod/country-data-api</li>
+<li>Clone or download the repository at https://github.com/asafhod/country-api</li>
 <li>Navigate to the root directory, and run <i>npm install</i> to install the node modules</li>
 <li>You will need to set up your own MongoDB database cluster so you can store the
 Country and User data</li>

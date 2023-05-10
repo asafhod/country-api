@@ -2,7 +2,7 @@ openapi: 3.0.0
 info:
   title: Country API
   version: '1.0'
-  description: '**RESTful API with country data** | <a href="https://github.com/asafhod/country-data-api">GitHub</a>'
+  description: '**RESTful API with country data** | <a href="https://github.com/asafhod/country-api">GitHub</a>'
 servers:
 - url: https://country-api.glitch.me
   variables: {}
