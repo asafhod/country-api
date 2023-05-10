@@ -1,0 +1,606 @@
+openapi: 3.0.0
+info:
+  title: Country API
+  version: '1.0'
+  description: '**RESTful API with country data** | <a href="https://github.com/asafhod/country-data-api">GitHub</a>'
+servers:
+- url: https://country-api.glitch.me
+  variables: {}
+paths:
+  /countries:
+    get:
+      tags:
+      - Countries
+      summary: Get Countries
+      operationId: GetCountries
+      parameters:
+        - in: query
+          name: ids
+          schema:
+            type: string
+          description: Comma-separated list of country IDs (based on ISO codes) to search for
+        - in: query
+          name: names
+          schema:
+            type: string
+          description: Comma-separated list of country names to search for
+        - in: query
+          name: languages
+          schema:
+            type: string
+          description: Comma-separated list of spoken languages to search for
+        - in: query
+          name: regions
+          schema:
+            type: string
+          description: Comma-separated list of world regions to search for
+        - in: query
+          name: orgs
+          schema:
+            type: string
+          description: Comma-separated list of organization memberships to search for
+        - in: query
+          name: pop_min
+          schema:
+            type: number
+          description: Minimum population
+        - in: query
+          name: pop_max
+          schema:
+            type: number
+          description: Maximum population
+        - in: query
+          name: gdp_min
+          schema:
+            type: number
+          description: Minimum GDP
+        - in: query
+          name: gdp_max
+          schema:
+            type: number
+          description: Maximum GDP
+      responses:
+        '200':
+          description: 'OK'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+      security: []
+    post:
+      tags:
+      - Countries
+      summary: Insert Country
+      operationId: InsertCountry
+      parameters: []
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/InsertCountryRequest'
+        required: true
+      responses:
+        '201':
+          description: 'Created'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '401':
+          description: 'Unauthorized - Log in as a user with the "Log In" request and use authentication token. Note: To authorize this request from this documentation page, click the Authorize button at the top-right of the page and enter the token.'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+    delete:
+      tags:
+      - Countries
+      summary: Delete All Countries
+      operationId: DeleteAllCountries
+      parameters: []
+      responses:
+        '200':
+          description: 'OK'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '401':
+          description: 'Unauthorized - Log in as a user with the "Log In" request and use authentication token. Note: To authorize this request from this documentation page, click the Authorize button at the top-right of the page and enter the token.'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+  /countries/{id}:
+    parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+        required: true
+        description: Country ID
+    get:
+      tags:
+      - Countries
+      summary: Get Country by ID
+      operationId: GetCountrybyID
+      parameters: []
+      responses:
+        '200':
+          description: 'OK'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '404':
+          description: 'Not Found'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+      security: []
+    patch:
+      tags:
+      - Countries
+      summary: Update Country
+      operationId: UpdateCountry
+      parameters: []
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/UpdateCountryRequest'
+        required: true
+      responses:
+        '200':
+          description: 'OK'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '401':
+          description: 'Unauthorized - Log in as a user with the "Log In" request and use authentication token. Note: To authorize this request from this documentation page, click the Authorize button at the top-right of the page and enter the token.'
+          headers: {}
+        '404':
+          description: 'Not Found'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+    delete:
+      tags:
+      - Countries
+      summary: Delete Country
+      operationId: DeleteCountry
+      parameters: []
+      responses:
+        '204':
+          description: 'No Content - Success'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '401':
+          description: 'Unauthorized - Log in as a user with the "Log In" request and use authentication token. Note: To authorize this request from this documentation page, click the Authorize button at the top-right of the page and enter the token.'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+  /countries/batch:
+    post:
+      tags:
+      - Countries
+      summary: Insert Multiple Countries
+      operationId: InsertCountryBatch
+      parameters: []
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/InsertMultipleCountriesRequest'
+        required: true
+      responses:
+        '201':
+          description: 'Created'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '401':
+          description: 'Unauthorized - Log in as a user with the "Log In" request and use authentication token. Note: To authorize this request from this documentation page, click the Authorize button at the top-right of the page and enter the token.'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+  /flags/{id}.svg:
+    parameters:
+      - in: path
+        name: id
+        schema:
+          type: string
+        required: true
+        description: Country ID
+    get:
+      tags:
+      - Countries
+      summary: Get Flag
+      operationId: GetFlag
+      parameters: []
+      responses:
+        '200':
+          description: 'OK - Note: This documentation page cannot render images. To view the flag in the browser, use the URL address bar to send the request.'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '404':
+          description: 'Not Found'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+      security: []
+  /users/login:
+    post:
+      tags:
+      - Users
+      summary: Log In
+      operationId: LogIn
+      parameters: []
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/LogInRequest'
+        required: true
+      responses:
+        '200':
+          description: 'OK'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '401':
+          description: 'Unauthorized - Username and/or password is invalid'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+      security: []
+  /users:
+    get:
+      tags:
+      - Users
+      summary: Get All Users
+      operationId: GetAllUsers
+      parameters: []
+      responses:
+        '200':
+          description: 'OK'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '401':
+          description: 'Unauthorized - Log in as a user with the "Log In" request and use authentication token. Note: To authorize this request from this documentation page, click the Authorize button at the top-right of the page and enter the token.'
+          headers: {}
+        '403':
+          description: 'Forbidden - This request is for admin users only'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+    post:
+      tags:
+      - Users
+      summary: Register User
+      operationId: RegisterUser
+      parameters: []
+      requestBody:
+        description: ''
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/RegisterUserRequest'
+        required: true
+      responses:
+        '201':
+          description: 'Created'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '401':
+          description: 'Unauthorized - Log in as a user with the "Log In" request and use authentication token. Note: To authorize this request from this documentation page, click the Authorize button at the top-right of the page and enter the token.'
+          headers: {}
+        '403':
+          description: 'Forbidden - This request is for admin users only'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+  /users/{username}:
+    parameters:
+      - in: path
+        name: username
+        schema:
+          type: string
+        required: true
+        description: Username
+    get:
+      tags:
+      - Users
+      summary: Get User by Username
+      operationId: GetUserbyUsername
+      parameters: []
+      responses:
+        '200':
+          description: 'OK'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '401':
+          description: 'Unauthorized - Log in as a user with the "Log In" request and use authentication token. Note: To authorize this request from this documentation page, click the Authorize button at the top-right of the page and enter the token.'
+          headers: {}
+        '403':
+          description: 'Forbidden - This request is for admin users only'
+          headers: {}
+        '404':
+          description: 'Not Found'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+    delete:
+      tags:
+      - Users
+      summary: Delete User
+      operationId: DeleteUser
+      parameters: []
+      responses:
+        '204':
+          description: 'No Content - Success'
+          headers: {}
+        '400':
+          description: 'Bad Request'
+          headers: {}
+        '401':
+          description: 'Unauthorized - Log in as a user with the "Log In" request and use authentication token. Note: To authorize this request from this documentation page, click the Authorize button at the top-right of the page and enter the token.'
+          headers: {}
+        '403':
+          description: 'Forbidden - This request is for admin users only'
+          headers: {}
+        '404':
+          description: 'Not Found'
+          headers: {}
+        '500':
+          description: 'Internal Server Error'
+          headers: {}
+      deprecated: false
+components:
+  schemas:
+    InsertCountryRequest:
+      title: InsertCountryRequest
+      required:
+      - id
+      - names
+      type: object
+      properties:
+        id:
+          type: string
+        names:
+          type: array
+          items:
+            type: string
+        languages:
+          type: array
+          items:
+            type: string
+        regions:
+          type: array
+          items:
+            type: string
+        orgs:
+          type: array
+          items:
+            type: string
+        population:
+          type: number
+        gdp:
+          type: number
+        flag:
+          type: string
+      example:
+        id: wk
+        names:
+        - Wakanda
+        - Kingdom of Wakanda
+        languages:
+        - English
+        - Wakandan
+        regions:
+        - Africa
+        orgs:
+        - UN
+        population: 6000000
+        gdp: 16000000000000
+    InsertMultipleCountriesRequest:
+      type: array
+      items:
+        title: InsertMultipleCountriesRequest (Each Country Entry)
+        required:
+          - id
+          - names
+        type: object
+        properties:
+          id:
+            type: string
+          names:
+            type: array
+            items:
+              type: string
+          languages:
+            type: array
+            items:
+              type: string
+          regions:
+            type: array
+            items:
+              type: string
+          orgs:
+            type: array
+            items:
+              type: string
+          population:
+            type: number
+          gdp:
+            type: number
+          flag:
+            type: string
+      example:
+        - id: lx
+          names:
+          - Latveria
+          languages:
+          - English
+          - Latverian
+          regions:
+          - Europe
+          orgs:
+          - UN
+          population: 500000
+          gdp: 800000000000
+        - id: sq
+          names:
+          - Symkaria
+          - Kingdom of Symkaria
+          languages:
+          - Hungarian
+          - Symkarian
+          regions:
+          - Europe
+          orgs:
+          - UN
+          - EU
+          population: 3000000
+          gdp: 30000000000
+        - id: zb
+          names:
+          - Zebrania
+          - Republic of Zebrania
+          languages:
+          - English
+          - Zebranian
+          regions:
+          - Africa
+          orgs:
+          - UN
+          population: 5000000
+          gdp: 50000000000
+    UpdateCountryRequest:
+      title: UpdateCountryRequest
+      type: object
+      properties:
+        id:
+          type: string
+        names:
+          type: array
+          items:
+            type: string
+        languages:
+          type: array
+          items:
+            type: string
+        regions:
+          type: array
+          items:
+            type: string
+        orgs:
+          type: array
+          items:
+            type: string
+        population:
+          type: number
+        gdp:
+          type: number
+        flag:
+          type: string
+      example:
+        id: us
+        names:
+        - NEW NAME
+        - United States
+        - United States of America
+        - USA
+        - US
+        languages:
+        - NEW LANGUAGE
+        - English
+        regions:
+        - North America
+        orgs:
+        - NEW ORGANIZATION
+        - UN
+        - NATO
+        population: 334410487
+        gdp: 25035164000000
+        flag: us.svg
+    LogInRequest:
+      title: LogInRequest
+      required:
+      - username
+      - password
+      type: object
+      properties:
+        username:
+          type: string
+        password:
+          type: string
+      example:
+        username: username
+        password: password
+    RegisterUserRequest:
+      title: RegisterUserRequest
+      required:
+      - username
+      - password
+      type: object
+      properties:
+        username:
+          type: string
+        password:
+          type: string
+      example:
+        username: NewUser
+        password: password
+  securitySchemes:
+    httpBearer:
+      type: http
+      scheme: bearer
+security:
+- httpBearer: []
+tags:
+- name: Countries
+  description: 'Requests for country data'
+- name: Users
+  description: 'Requests for user data'

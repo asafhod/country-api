@@ -1,0 +1,2582 @@
+[
+  {
+    "names": ["Abkhazia"],
+    "id": "xa",
+    "languages": ["Abkhaz", "Russian"],
+    "regions": ["Asia", "Europe"],
+    "orgs": [],
+    "population": 245424,
+    "gdp": 439600000,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["Afghanistan"],
+    "id": "af",
+    "languages": ["Persian", "Pashto"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 32890171,
+    "gdp": 14787000000,
+    "flag": "af.svg"
+  },
+  {
+    "names": ["Albania"],
+    "id": "al",
+    "languages": ["Albanian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "NATO"],
+    "population": 2829741,
+    "gdp": 18256000000,
+    "flag": "al.svg"
+  },
+  {
+    "names": ["Algeria"],
+    "id": "dz",
+    "languages": ["Arabic", "Berber"],
+    "regions": ["Africa"],
+    "orgs": ["UN", "Arab League"],
+    "population": 45400000,
+    "gdp": 187155000000,
+    "flag": "dz.svg"
+  },
+  {
+    "names": ["American Samoa"],
+    "id": "as",
+    "languages": ["Samoan", "English"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 49710,
+    "gdp": 709000000,
+    "flag": "as.svg"
+  },
+  {
+    "names": ["Andorra"],
+    "id": "ad",
+    "languages": ["Catalan", "Spanish"],
+    "regions": ["Europe"],
+    "orgs": ["UN"],
+    "population": 81057,
+    "gdp": 3302000000,
+    "flag": "ad.svg"
+  },
+  {
+    "names": ["Angola"],
+    "id": "ao",
+    "languages": ["Portuguese"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 33086278,
+    "gdp": 124794000000,
+    "flag": "ao.svg"
+  },
+  {
+    "names": ["Anguilla"],
+    "id": "ai",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 15701,
+    "gdp": 258000000,
+    "flag": "ai.svg"
+  },
+  {
+    "names": ["Antarctica"],
+    "id": "aq",
+    "languages": [],
+    "regions": ["Antarctic"],
+    "orgs": [],
+    "population": 1001,
+    "gdp": 0,
+    "flag": "aq.svg"
+  },
+  {
+    "names": ["Antigua and Barbuda"],
+    "id": "ag",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 100772,
+    "gdp": 1692000000,
+    "flag": "ag.svg"
+  },
+  {
+    "names": ["Argentina"],
+    "id": "ar",
+    "languages": ["Spanish"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 46044703,
+    "gdp": 630698000000,
+    "flag": "ar.svg"
+  },
+  {
+    "names": ["Armenia"],
+    "id": "am",
+    "languages": ["Armenian", "Russian"],
+    "regions": ["Asia", "Europe"],
+    "orgs": ["UN", "CIS"],
+    "population": 2976800,
+    "gdp": 17693000000,
+    "flag": "am.svg"
+  },
+  {
+    "names": ["Artsakh"],
+    "id": "xn",
+    "languages": ["Armenian", "Russian"],
+    "regions": ["Asia", "Europe"],
+    "orgs": [],
+    "population": 148900,
+    "gdp": 720000000,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["Aruba"],
+    "id": "aw",
+    "languages": ["Dutch", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 111050,
+    "gdp": 3499000000,
+    "flag": "aw.svg"
+  },
+  {
+    "names": ["Australia"],
+    "id": "au",
+    "languages": ["English"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 26053855,
+    "gdp": 1724787000000,
+    "flag": "au.svg"
+  },
+  {
+    "names": ["Austria"],
+    "id": "at",
+    "languages": ["German"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU"],
+    "population": 9106126,
+    "gdp": 468046000000,
+    "flag": "at.svg"
+  },
+  {
+    "names": ["Azad Kashmir"],
+    "id": "xj",
+    "languages": ["Pahari", "Urdu"],
+    "regions": ["Asia"],
+    "orgs": [],
+    "population": 4318536,
+    "gdp": 7000000000,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["Azerbaijan"],
+    "id": "az",
+    "languages": ["Azerbaijani", "Russian"],
+    "regions": ["Asia", "Europe"],
+    "orgs": ["UN", "CIS"],
+    "population": 10127145,
+    "gdp": 70066000000,
+    "flag": "az.svg"
+  },
+  {
+    "names": ["Bahamas"],
+    "id": "bs",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 393450,
+    "gdp": 12693000000,
+    "flag": "bs.svg"
+  },
+  {
+    "names": ["Bahrain"],
+    "id": "bh",
+    "languages": ["Arabic"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 1501635,
+    "gdp": 43544000000,
+    "flag": "bh.svg"
+  },
+  {
+    "names": ["Bangladesh"],
+    "id": "bd",
+    "languages": ["Bengali"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 169828911,
+    "gdp": 460751000000,
+    "flag": "bd.svg"
+  },
+  {
+    "names": ["Barbados"],
+    "id": "bb",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 282000,
+    "gdp": 5788000000,
+    "flag": "bb.svg"
+  },
+  {
+    "names": ["Belarus"],
+    "id": "by",
+    "languages": ["Belarusian", "Russian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "CIS"],
+    "population": 9255524,
+    "gdp": 79704000000,
+    "flag": "by.svg"
+  },
+  {
+    "names": ["Belgium"],
+    "id": "be",
+    "languages": ["Dutch", "French", "German"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 11730564,
+    "gdp": 589491000000,
+    "flag": "be.svg"
+  },
+  {
+    "names": ["Belize"],
+    "id": "bz",
+    "languages": ["English", "Spanish", "creole"],
+    "regions": ["North America", "Central America"],
+    "orgs": ["UN"],
+    "population": 441471,
+    "gdp": 2676000000,
+    "flag": "bz.svg"
+  },
+  {
+    "names": ["Benin"],
+    "id": "bj",
+    "languages": ["French"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 12506347,
+    "gdp": 17547000000,
+    "flag": "bj.svg"
+  },
+  {
+    "names": ["Bermuda"],
+    "id": "bm",
+    "languages": ["English"],
+    "regions": ["North America"],
+    "orgs": [],
+    "population": 64055,
+    "gdp": 7081000000,
+    "flag": "bm.svg"
+  },
+  {
+    "names": ["Bhutan"],
+    "id": "bt",
+    "languages": ["Dzongkha"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 763200,
+    "gdp": 2707000000,
+    "flag": "bt.svg"
+  },
+  {
+    "names": ["Bolivia"],
+    "id": "bo",
+    "languages": ["Spanish"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 12006031,
+    "gdp": 43431000000,
+    "flag": "bo.svg"
+  },
+  {
+    "names": ["Bonaire, Sint Eustatius and Saba"],
+    "id": "bq",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 27726,
+    "gdp": 0,
+    "flag": "bq.svg"
+  },
+  {
+    "names": ["Bosnia and Herzegovina"],
+    "id": "ba",
+    "languages": ["Bosnian", "Serbian", "Croatian"],
+    "regions": ["Europe"],
+    "orgs": ["UN"],
+    "population": 3320954,
+    "gdp": 23681000000,
+    "flag": "ba.svg"
+  },
+  {
+    "names": ["Botswana"],
+    "id": "bw",
+    "languages": ["English", "Bantu"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 2410338,
+    "gdp": 18005000000,
+    "flag": "bw.svg"
+  },
+  {
+    "names": ["Brazil"],
+    "id": "br",
+    "languages": ["Portuguese"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 215805178,
+    "gdp": 1894708000000,
+    "flag": "br.svg"
+  },
+  {
+    "names": ["British Indian Ocean Territory"],
+    "id": "io",
+    "languages": ["English"],
+    "regions": [],
+    "orgs": [],
+    "population": 0,
+    "gdp": 0,
+    "flag": "io.svg"
+  },
+  {
+    "names": ["British Virgin Islands", "BVI"],
+    "id": "vg",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 31122,
+    "gdp": 0,
+    "flag": "vg.svg"
+  },
+  {
+    "names": ["Brunei"],
+    "id": "bn",
+    "languages": ["Malay", "English"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 429999,
+    "gdp": 18464000000,
+    "flag": "bn.svg"
+  },
+  {
+    "names": ["Bulgaria"],
+    "id": "bg",
+    "languages": ["Bulgarian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 6519789,
+    "gdp": 85008000000,
+    "flag": "bg.svg"
+  },
+  {
+    "names": ["Burkina Faso"],
+    "id": "bf",
+    "languages": ["French", "Moore", "Fula", "Dioula"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 22185654,
+    "gdp": 18268000000,
+    "flag": "bf.svg"
+  },
+  {
+    "names": ["Burundi"],
+    "id": "bi",
+    "languages": ["Bantu", "French", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 12574571,
+    "gdp": 3686000000,
+    "flag": "bi.svg"
+  },
+  {
+    "names": ["Cambodia"],
+    "id": "kh",
+    "languages": ["Khmer"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 15552211,
+    "gdp": 28330000000,
+    "flag": "kh.svg"
+  },
+  {
+    "names": ["Cameroon"],
+    "id": "cm",
+    "languages": ["English", "French"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 24348251,
+    "gdp": 44212000000,
+    "flag": "cm.svg"
+  },
+  {
+    "names": ["Canada"],
+    "id": "ca",
+    "languages": ["English", "French"],
+    "regions": ["North America"],
+    "orgs": ["UN", "NATO"],
+    "population": 39124310,
+    "gdp": 2200352000000,
+    "flag": "ca.svg"
+  },
+  {
+    "names": ["Cape Verde", "Cabo Verde"],
+    "id": "cv",
+    "languages": ["Portuguese", "creole"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 563198,
+    "gdp": 2053000000,
+    "flag": "cv.svg"
+  },
+  {
+    "names": ["Cayman Islands"],
+    "id": "ky",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 71105,
+    "gdp": 5898000000,
+    "flag": "ky.svg"
+  },
+  {
+    "names": ["Central African Republic"],
+    "id": "cf",
+    "languages": ["French", "Sango"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 5633412,
+    "gdp": 2488000000,
+    "flag": "cf.svg"
+  },
+  {
+    "names": ["Chad"],
+    "id": "td",
+    "languages": ["Arabic", "French"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 16818391,
+    "gdp": 12945000000,
+    "flag": "td.svg"
+  },
+  {
+    "names": ["Chile"],
+    "id": "cl",
+    "languages": ["Spanish"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 19828563,
+    "gdp": 310866000000,
+    "flag": "cl.svg"
+  },
+  {
+    "names": ["China", "People's Republic of China", "PRC"],
+    "id": "cn",
+    "languages": ["Chinese"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 1411750000,
+    "gdp": 18321197000000,
+    "flag": "cn.svg"
+  },
+  {
+    "names": ["Christmas Island"],
+    "id": "cx",
+    "languages": ["English", "Chinese", "Malay"],
+    "regions": [],
+    "orgs": [],
+    "population": 1692,
+    "gdp": 0,
+    "flag": "cx.svg"
+  },
+  {
+    "names": ["Cocos (Keeling) Islands", "Cocos Islands", "Keeling Islands"],
+    "id": "cc",
+    "languages": ["English", "Malay"],
+    "regions": [],
+    "orgs": [],
+    "population": 593,
+    "gdp": 0,
+    "flag": "cc.svg"
+  },
+  {
+    "names": ["Colombia"],
+    "id": "co",
+    "languages": ["Spanish"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 51049498,
+    "gdp": 342919000000,
+    "flag": "co.svg"
+  },
+  {
+    "names": ["Comoros"],
+    "id": "km",
+    "languages": ["Arabic", "Comorian", "French"],
+    "regions": ["Africa"],
+    "orgs": ["UN", "Arab League"],
+    "population": 758316,
+    "gdp": 1242000000,
+    "flag": "km.svg"
+  },
+  {
+    "names": ["Cook Islands"],
+    "id": "ck",
+    "languages": ["English", "Maori"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 15040,
+    "gdp": 283000000,
+    "flag": "ck.svg"
+  },
+  {
+    "names": ["Costa Rica"],
+    "id": "cr",
+    "languages": ["Spanish"],
+    "regions": ["North America", "Central America"],
+    "orgs": ["UN"],
+    "population": 5163038,
+    "gdp": 68489000000,
+    "flag": "cr.svg"
+  },
+  {
+    "names": ["Crimea"],
+    "id": "xq",
+    "languages": ["Russian"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 2470000,
+    "gdp": 0,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["Croatia"],
+    "id": "hr",
+    "languages": ["Croatian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 3871833,
+    "gdp": 69380000000,
+    "flag": "hr.svg"
+  },
+  {
+    "names": ["Cuba"],
+    "id": "cu",
+    "languages": ["Spanish"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 11113215,
+    "gdp": 107352000000,
+    "flag": "cu.svg"
+  },
+  {
+    "names": ["Curaçao", "Curacao"],
+    "id": "cw",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 153671,
+    "gdp": 2700000000,
+    "flag": "cw.svg"
+  },
+  {
+    "names": ["Cyprus"],
+    "id": "cy",
+    "languages": ["Greek"],
+    "regions": ["Asia", "Europe", "Middle East"],
+    "orgs": ["UN", "EU"],
+    "population": 918100,
+    "gdp": 26705000000,
+    "flag": "cy.svg"
+  },
+  {
+    "names": ["Czech Republic", "Czechia"],
+    "id": "cz",
+    "languages": ["Czech"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 10526937,
+    "gdp": 296238000000,
+    "flag": "cz.svg"
+  },
+  {
+    "names": ["Democratic Republic of the Congo", "DRC"],
+    "id": "cd",
+    "languages": ["French", "Bantu"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 99010000,
+    "gdp": 63909000000,
+    "flag": "cd.svg"
+  },
+  {
+    "names": ["Denmark"],
+    "id": "dk",
+    "languages": ["Danish"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 5932654,
+    "gdp": 386724000000,
+    "flag": "dk.svg"
+  },
+  {
+    "names": ["Djibouti"],
+    "id": "dj",
+    "languages": ["Arabic", "French"],
+    "regions": ["Africa"],
+    "orgs": ["UN", "Arab League"],
+    "population": 1001454,
+    "gdp": 3725000000,
+    "flag": "dj.svg"
+  },
+  {
+    "names": ["Dominica"],
+    "id": "dm",
+    "languages": ["English"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 73000,
+    "gdp": 599000000,
+    "flag": "dm.svg"
+  },
+  {
+    "names": ["Dominican Republic"],
+    "id": "do",
+    "languages": ["Spanish"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 10535535,
+    "gdp": 112417000000,
+    "flag": "do.svg"
+  },
+  {
+    "names": ["Donetsk People's Republic", "DPR", "DNR"],
+    "id": "xd",
+    "languages": ["Russian", "Ukrainian"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 2220500,
+    "gdp": 0,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["East Timor", "Timor-Leste", "Timor Leste"],
+    "id": "tl",
+    "languages": ["Portuguese", "Tetum"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 1317780,
+    "gdp": 2455000000,
+    "flag": "tl.svg"
+  },
+  {
+    "names": ["Ecuador"],
+    "id": "ec",
+    "languages": ["Spanish"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 18170580,
+    "gdp": 115469000000,
+    "flag": "ec.svg"
+  },
+  {
+    "names": ["Egypt"],
+    "id": "eg",
+    "languages": ["Arabic"],
+    "regions": ["Africa", "Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 104478214,
+    "gdp": 469094000000,
+    "flag": "eg.svg"
+  },
+  {
+    "names": ["El Salvador"],
+    "id": "sv",
+    "languages": ["Spanish"],
+    "regions": ["North America", "Central America"],
+    "orgs": ["UN"],
+    "population": 6825935,
+    "gdp": 31989000000,
+    "flag": "sv.svg"
+  },
+  {
+    "names": ["Equatorial Guinea"],
+    "id": "gq",
+    "languages": ["French", "Portuguese", "Spanish"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 1505588,
+    "gdp": 16877000000,
+    "flag": "gq.svg"
+  },
+  {
+    "names": ["Eritrea"],
+    "id": "er",
+    "languages": ["Tigrinya", "Arabic"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 3684000,
+    "gdp": 2369000000,
+    "flag": "er.svg"
+  },
+  {
+    "names": ["Estonia"],
+    "id": "ee",
+    "languages": ["Estonian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 1331796,
+    "gdp": 39054000000,
+    "flag": "ee.svg"
+  },
+  {
+    "names": ["Eswatini"],
+    "id": "sz",
+    "languages": ["English", "Swazi"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 1202000,
+    "gdp": 4669000000,
+    "flag": "sz.svg"
+  },
+  {
+    "names": ["Ethiopia"],
+    "id": "et",
+    "languages": ["Oromo", "Amharic"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 105163988,
+    "gdp": 111181000000,
+    "flag": "et.svg"
+  },
+  {
+    "names": ["Falkland Islands"],
+    "id": "fk",
+    "languages": ["English"],
+    "regions": ["South America"],
+    "orgs": [],
+    "population": 3800,
+    "gdp": 0,
+    "flag": "fk.svg"
+  },
+  {
+    "names": ["Faroe Islands"],
+    "id": "fo",
+    "languages": ["Faroese"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 54255,
+    "gdp": 0,
+    "flag": "fo.svg"
+  },
+  {
+    "names": ["Fiji"],
+    "id": "fj",
+    "languages": ["Fijian", "Hindi", "English"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 898402,
+    "gdp": 4859000000,
+    "flag": "fj.svg"
+  },
+  {
+    "names": ["Finland"],
+    "id": "fi",
+    "languages": ["Finnish", "Swedish"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU"],
+    "population": 5559198,
+    "gdp": 281411000000,
+    "flag": "fi.svg"
+  },
+  {
+    "names": ["France"],
+    "id": "fr",
+    "languages": ["French"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 65786160,
+    "gdp": 2778090000000,
+    "flag": "fr.svg"
+  },
+  {
+    "names": ["French Guiana"],
+    "id": "gf",
+    "languages": ["French", "creole"],
+    "regions": ["South America"],
+    "orgs": ["EU"],
+    "population": 301099,
+    "gdp": 0,
+    "flag": "gf.svg"
+  },
+  {
+    "names": ["French Polynesia"],
+    "id": "pf",
+    "languages": ["French"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 279890,
+    "gdp": 6055000000,
+    "flag": "pf.svg"
+  },
+  {
+    "names": ["French Southern and Antarctic Lands"],
+    "id": "tf",
+    "languages": ["French"],
+    "regions": ["Antarctic", "Africa"],
+    "orgs": [],
+    "population": 206,
+    "gdp": 0,
+    "flag": "tf.svg"
+  },
+  {
+    "names": ["Gabon"],
+    "id": "ga",
+    "languages": ["French"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 2233272,
+    "gdp": 22221000000,
+    "flag": "ga.svg"
+  },
+  {
+    "names": ["The Gambia", "Gambia"],
+    "id": "gm",
+    "languages": ["English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 2706000,
+    "gdp": 2172000000,
+    "flag": "gm.svg"
+  },
+  {
+    "names": ["Georgia"],
+    "id": "ge",
+    "languages": ["Georgian"],
+    "regions": ["Asia", "Europe"],
+    "orgs": ["UN"],
+    "population": 3688600,
+    "gdp": 25172000000,
+    "flag": "ge.svg"
+  },
+  {
+    "names": ["Germany"],
+    "id": "de",
+    "languages": ["German"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 84270625,
+    "gdp": 4031149000000,
+    "flag": "de.svg"
+  },
+  {
+    "names": ["Ghana"],
+    "id": "gh",
+    "languages": ["English", "Akan"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 30832019,
+    "gdp": 75996000000,
+    "flag": "gh.svg"
+  },
+  {
+    "names": ["Gibraltar"],
+    "id": "gi",
+    "languages": ["English", "Spanish"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 33000,
+    "gdp": 0,
+    "flag": "gi.svg"
+  },
+  {
+    "names": ["Greece"],
+    "id": "gr",
+    "languages": ["Greek"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 10432481,
+    "gdp": 222008000000,
+    "flag": "gr.svg"
+  },
+  {
+    "names": ["Greenland"],
+    "id": "gl",
+    "languages": ["Greenlandic"],
+    "regions": ["North America", "Arctic"],
+    "orgs": [],
+    "population": 56609,
+    "gdp": 3076000000,
+    "flag": "gl.svg"
+  },
+  {
+    "names": ["Grenada"],
+    "id": "gd",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 125000,
+    "gdp": 1192000000,
+    "flag": "gd.svg"
+  },
+  {
+    "names": ["Guadeloupe"],
+    "id": "gp",
+    "languages": ["French", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["EU"],
+    "population": 395600,
+    "gdp": 0,
+    "flag": "gp.svg"
+  },
+  {
+    "names": ["Guam"],
+    "id": "gu",
+    "languages": ["English", "Filipino"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 153836,
+    "gdp": 6123000000,
+    "flag": "gu.svg"
+  },
+  {
+    "names": ["Guatemala"],
+    "id": "gt",
+    "languages": ["Spanish"],
+    "regions": ["North America", "Central America"],
+    "orgs": ["UN"],
+    "population": 17109746,
+    "gdp": 91318000000,
+    "flag": "gt.svg"
+  },
+  {
+    "names": ["Guernsey"],
+    "id": "gg",
+    "languages": ["English"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 63823,
+    "gdp": 0,
+    "flag": "gg.svg"
+  },
+  {
+    "names": ["Guinea"],
+    "id": "gn",
+    "languages": ["French", "Fula", "Maninka", "Susu"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 12907395,
+    "gdp": 19745000000,
+    "flag": "gn.svg"
+  },
+  {
+    "names": ["Guinea-Bissau", "Guinea Bissau"],
+    "id": "gw",
+    "languages": ["Portuguese"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 1646077,
+    "gdp": 1624000000,
+    "flag": "gw.svg"
+  },
+  {
+    "names": ["Guyana"],
+    "id": "gy",
+    "languages": ["English", "creole"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 743699,
+    "gdp": 14839000000,
+    "flag": "gy.svg"
+  },
+  {
+    "names": ["Haiti"],
+    "id": "ht",
+    "languages": ["French", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 11743017,
+    "gdp": 20182000000,
+    "flag": "ht.svg"
+  },
+  {
+    "names": ["Heard Island and McDonald Islands"],
+    "id": "hm",
+    "languages": ["English"],
+    "regions": ["Antarctic"],
+    "orgs": [],
+    "population": 0,
+    "gdp": 0,
+    "flag": "hm.svg"
+  },
+  {
+    "names": ["Honduras"],
+    "id": "hn",
+    "languages": ["Spanish"],
+    "regions": ["North America", "Central America"],
+    "orgs": ["UN"],
+    "population": 9546178,
+    "gdp": 30568000000,
+    "flag": "hn.svg"
+  },
+  {
+    "names": ["Hong Kong", "HK"],
+    "id": "hk",
+    "languages": ["Chinese", "English"],
+    "regions": ["Asia"],
+    "orgs": [],
+    "population": 7403100,
+    "gdp": 368373000000,
+    "flag": "hk.svg"
+  },
+  {
+    "names": ["Hungary"],
+    "id": "hu",
+    "languages": ["Hungarian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 9678000,
+    "gdp": 184651000000,
+    "flag": "hu.svg"
+  },
+  {
+    "names": ["Iceland"],
+    "id": "is",
+    "languages": ["Icelandic"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "NATO"],
+    "population": 385230,
+    "gdp": 27702000000,
+    "flag": "is.svg"
+  },
+  {
+    "names": ["India"],
+    "id": "in",
+    "languages": ["Hindi", "English", "Bengali", "Urdu", "Punjabi"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 1375586000,
+    "gdp": 3468566000000,
+    "flag": "in.svg"
+  },
+  {
+    "names": ["Indonesia"],
+    "id": "id",
+    "languages": ["Malay", "Javanese"],
+    "regions": ["Asia", "Oceania"],
+    "orgs": ["UN"],
+    "population": 275773800,
+    "gdp": 1289429000000,
+    "flag": "id.svg"
+  },
+  {
+    "names": ["Iran"],
+    "id": "ir",
+    "languages": ["Persian"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN"],
+    "population": 86212043,
+    "gdp": 1973738000000,
+    "flag": "ir.svg"
+  },
+  {
+    "names": ["Iraq"],
+    "id": "iq",
+    "languages": ["Arabic", "Kurdish"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 41190700,
+    "gdp": 282876000000,
+    "flag": "iq.svg"
+  },
+  {
+    "names": ["Ireland"],
+    "id": "ie",
+    "languages": ["English", "Irish"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU"],
+    "population": 5123536,
+    "gdp": 519776000000,
+    "flag": "ie.svg"
+  },
+  {
+    "names": ["Isle of Man"],
+    "id": "im",
+    "languages": ["English", "Manx"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 84069,
+    "gdp": 0,
+    "flag": "im.svg"
+  },
+  {
+    "names": ["Israel"],
+    "id": "il",
+    "languages": ["Hebrew"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN"],
+    "population": 9681440,
+    "gdp": 527179000000,
+    "flag": "il.svg"
+  },
+  {
+    "names": ["Italy"],
+    "id": "it",
+    "languages": ["Italian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 58887359,
+    "gdp": 1996934000000,
+    "flag": "it.svg"
+  },
+  {
+    "names": ["Ivory Coast", "Côte d'Ivoire", "Cote d'Ivoire"],
+    "id": "ci",
+    "languages": ["French"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 29389150,
+    "gdp": 68630000000,
+    "flag": "ci.svg"
+  },
+  {
+    "names": ["Jamaica"],
+    "id": "jm",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 2727503,
+    "gdp": 16104000000,
+    "flag": "jm.svg"
+  },
+  {
+    "names": ["Japan"],
+    "id": "jp",
+    "languages": ["Japanese"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 124630000,
+    "gdp": 4300621000000,
+    "flag": "jp.svg"
+  },
+  {
+    "names": ["Jersey"],
+    "id": "je",
+    "languages": ["English", "Jerriais", "French"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 107800,
+    "gdp": 0,
+    "flag": "je.svg"
+  },
+  {
+    "names": ["Jordan"],
+    "id": "jo",
+    "languages": ["Arabic"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 11413940,
+    "gdp": 48066000000,
+    "flag": "jo.svg"
+  },
+  {
+    "names": ["Kazakhstan"],
+    "id": "kz",
+    "languages": ["Kazakh", "Russian"],
+    "regions": ["Asia", "Europe"],
+    "orgs": ["UN", "CIS"],
+    "population": 19417568,
+    "gdp": 224338000000,
+    "flag": "kz.svg"
+  },
+  {
+    "names": ["Kenya"],
+    "id": "ke",
+    "languages": ["Bantu", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 47564296,
+    "gdp": 114858000000,
+    "flag": "ke.svg"
+  },
+  {
+    "names": ["Kiribati"],
+    "id": "ki",
+    "languages": ["Gilbertese", "English"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 120740,
+    "gdp": 207000000,
+    "flag": "ki.svg"
+  },
+  {
+    "names": ["Kosovo"],
+    "id": "xk",
+    "languages": ["Albanian", "Serbian"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 1798188,
+    "gdp": 9242000000,
+    "flag": "xk.svg"
+  },
+  {
+    "names": ["Kuwait"],
+    "id": "kw",
+    "languages": ["Arabic"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 4670713,
+    "gdp": 183568000000,
+    "flag": "kw.svg"
+  },
+  {
+    "names": ["Kyrgyzstan"],
+    "id": "kg",
+    "languages": ["Kyrgyz", "Russian"],
+    "regions": ["Asia"],
+    "orgs": ["UN", "CIS"],
+    "population": 7000000,
+    "gdp": 9750000000,
+    "flag": "kg.svg"
+  },
+  {
+    "names": ["Laos"],
+    "id": "la",
+    "languages": ["Lao"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 7337783,
+    "gdp": 16250000000,
+    "flag": "la.svg"
+  },
+  {
+    "names": ["Latvia"],
+    "id": "lv",
+    "languages": ["Latvian", "Russian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 1895400,
+    "gdp": 40588000000,
+    "flag": "lv.svg"
+  },
+  {
+    "names": ["Lebanon"],
+    "id": "lb",
+    "languages": ["Arabic", "French"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 5490000,
+    "gdp": 24494000000,
+    "flag": "lb.svg"
+  },
+  {
+    "names": ["Lesotho"],
+    "id": "ls",
+    "languages": ["Bantu", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 2306000,
+    "gdp": 2507000000,
+    "flag": "ls.svg"
+  },
+  {
+    "names": ["Liberia"],
+    "id": "lr",
+    "languages": ["English", "creole"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 4661010,
+    "gdp": 3900000000,
+    "flag": "lr.svg"
+  },
+  {
+    "names": ["Libya"],
+    "id": "ly",
+    "languages": ["Arabic"],
+    "regions": ["Africa"],
+    "orgs": ["UN", "Arab League"],
+    "population": 6812000,
+    "gdp": 40836000000,
+    "flag": "ly.svg"
+  },
+  {
+    "names": ["Liechtenstein"],
+    "id": "li",
+    "languages": ["German"],
+    "regions": ["Europe"],
+    "orgs": ["UN"],
+    "population": 39444,
+    "gdp": 6114000000,
+    "flag": "li.svg"
+  },
+  {
+    "names": ["Lithuania"],
+    "id": "lt",
+    "languages": ["Lithuanian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 2839020,
+    "gdp": 68031000000,
+    "flag": "lt.svg"
+  },
+  {
+    "names": ["Luhansk People's Republic", "Lugansk People's Republic", "LPR", "LNR"],
+    "id": "xl",
+    "languages": ["Russian", "Ukrainian"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 1485300,
+    "gdp": 0,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["Luxembourg"],
+    "id": "lu",
+    "languages": ["Luxembourgish", "French", "German"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 645397,
+    "gdp": 82154000000,
+    "flag": "lu.svg"
+  },
+  {
+    "names": ["Macau", "Macao"],
+    "id": "mo",
+    "languages": ["Chinese", "Portuguese"],
+    "regions": ["Asia"],
+    "orgs": [],
+    "population": 683200,
+    "gdp": 23420000000,
+    "flag": "mo.svg"
+  },
+  {
+    "names": ["Madagascar"],
+    "id": "mg",
+    "languages": ["Malagasy", "French"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 26923353,
+    "gdp": 15106000000,
+    "flag": "mg.svg"
+  },
+  {
+    "names": ["Malawi"],
+    "id": "mw",
+    "languages": ["Bantu", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 21507723,
+    "gdp": 11554000000,
+    "flag": "mw.svg"
+  },
+  {
+    "names": ["Malaysia"],
+    "id": "my",
+    "languages": ["Malay"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 32772000,
+    "gdp": 434059000000,
+    "flag": "my.svg"
+  },
+  {
+    "names": ["Maldives"],
+    "id": "mv",
+    "languages": ["Dhivehi"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 383135,
+    "gdp": 5900000000,
+    "flag": "mv.svg"
+  },
+  {
+    "names": ["Mali"],
+    "id": "ml",
+    "languages": ["Bambara", "French"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 22594000,
+    "gdp": 18434000000,
+    "flag": "ml.svg"
+  },
+  {
+    "names": ["Malta"],
+    "id": "mt",
+    "languages": ["Maltese", "English"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU"],
+    "population": 519562,
+    "gdp": 17156000000,
+    "flag": "mt.svg"
+  },
+  {
+    "names": ["Marshall Islands"],
+    "id": "mh",
+    "languages": ["Marshallese", "English"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 39262,
+    "gdp": 271000000,
+    "flag": "mh.svg"
+  },
+  {
+    "names": ["Martinique"],
+    "id": "mq",
+    "languages": ["French", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["EU"],
+    "population": 376402,
+    "gdp": 0,
+    "flag": "mq.svg"
+  },
+  {
+    "names": ["Mauritania"],
+    "id": "mr",
+    "languages": ["Arabic"],
+    "regions": ["Africa"],
+    "orgs": ["UN", "Arab League"],
+    "population": 4271197,
+    "gdp": 10091000000,
+    "flag": "mr.svg"
+  },
+  {
+    "names": ["Mauritius"],
+    "id": "mu",
+    "languages": ["English", "creole"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 1266334,
+    "gdp": 11497000000,
+    "flag": "mu.svg"
+  },
+  {
+    "names": ["Mayotte"],
+    "id": "yt",
+    "languages": ["Bantu", "French"],
+    "regions": ["Africa"],
+    "orgs": ["EU"],
+    "population": 310022,
+    "gdp": 0,
+    "flag": "yt.svg"
+  },
+  {
+    "names": ["Mexico"],
+    "id": "mx",
+    "languages": ["Spanish"],
+    "regions": ["North America"],
+    "orgs": ["UN"],
+    "population": 128665641,
+    "gdp": 1424533000000,
+    "flag": "mx.svg"
+  },
+  {
+    "names": ["Micronesia"],
+    "id": "fm",
+    "languages": ["English", "Chuukese", "Pohnpeian"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 105754,
+    "gdp": 428000000,
+    "flag": "fm.svg"
+  },
+  {
+    "names": ["Moldova"],
+    "id": "md",
+    "languages": ["Romanian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "CIS"],
+    "population": 2597100,
+    "gdp": 14048000000,
+    "flag": "md.svg"
+  },
+  {
+    "names": ["Monaco"],
+    "id": "mc",
+    "languages": ["French", "Ligurian"],
+    "regions": ["Europe"],
+    "orgs": ["UN"],
+    "population": 39150,
+    "gdp": 8596000000,
+    "flag": "mc.svg"
+  },
+  {
+    "names": ["Mongolia"],
+    "id": "mn",
+    "languages": ["Mongolian"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 3483669,
+    "gdp": 15720000000,
+    "flag": "mn.svg"
+  },
+  {
+    "names": ["Montenegro"],
+    "id": "me",
+    "languages": ["Montenegrin"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "NATO"],
+    "population": 617683,
+    "gdp": 6127000000,
+    "flag": "me.svg"
+  },
+  {
+    "names": ["Montserrat"],
+    "id": "ms",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 4400,
+    "gdp": 68000000,
+    "flag": "ms.svg"
+  },
+  {
+    "names": ["Morocco"],
+    "id": "ma",
+    "languages": ["Arabic", "Berber"],
+    "regions": ["Africa"],
+    "orgs": ["UN", "Arab League"],
+    "population": 36875004,
+    "gdp": 142874000000,
+    "flag": "ma.svg"
+  },
+  {
+    "names": ["Mozambique"],
+    "id": "mz",
+    "languages": ["Bantu", "Portuguese"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 32419747,
+    "gdp": 17873000000,
+    "flag": "mz.svg"
+  },
+  {
+    "names": ["Myanmar"],
+    "id": "mm",
+    "languages": ["Burmese"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 55294979,
+    "gdp": 59530000000,
+    "flag": "mm.svg"
+  },
+  {
+    "names": ["Namibia"],
+    "id": "na",
+    "languages": ["Bantu", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 2550226,
+    "gdp": 12488000000,
+    "flag": "na.svg"
+  },
+  {
+    "names": ["Nauru"],
+    "id": "nr",
+    "languages": ["Nauruan", "English"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 11832,
+    "gdp": 134000000,
+    "flag": "nr.svg"
+  },
+  {
+    "names": ["Nepal"],
+    "id": "np",
+    "languages": ["Nepali"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 29192480,
+    "gdp": 39028000000,
+    "flag": "np.svg"
+  },
+  {
+    "names": ["Netherlands"],
+    "id": "nl",
+    "languages": ["Dutch"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 17654274,
+    "gdp": 990583000000,
+    "flag": "nl.svg"
+  },
+  {
+    "names": ["New Caledonia"],
+    "id": "nc",
+    "languages": ["French", "creole"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 273674,
+    "gdp": 10071000000,
+    "flag": "nc.svg"
+  },
+  {
+    "names": ["New Zealand"],
+    "id": "nz",
+    "languages": ["English", "Maori"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 5157064,
+    "gdp": 242700000000,
+    "flag": "nz.svg"
+  },
+  {
+    "names": ["Nicaragua"],
+    "id": "ni",
+    "languages": ["Spanish"],
+    "regions": ["North America", "Central America"],
+    "orgs": ["UN"],
+    "population": 6595674,
+    "gdp": 15695000000,
+    "flag": "ni.svg"
+  },
+  {
+    "names": ["Niger"],
+    "id": "ne",
+    "languages": ["French", "Hausa", "Songhay"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 24112753,
+    "gdp": 14639000000,
+    "flag": "ne.svg"
+  },
+  {
+    "names": ["Nigeria"],
+    "id": "ng",
+    "languages": ["English", "creole", "Hausa", "Yoruba", "Igbo"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 218541000,
+    "gdp": 504203000000,
+    "flag": "ng.svg"
+  },
+  {
+    "names": ["Niue"],
+    "id": "nu",
+    "languages": ["Niuean", "English"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 1549,
+    "gdp": 0,
+    "flag": "nu.svg"
+  },
+  {
+    "names": ["Norfolk Island"],
+    "id": "nf",
+    "languages": ["English", "creole"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 2188,
+    "gdp": 0,
+    "flag": "nf.svg"
+  },
+  {
+    "names": ["North Korea", "Democratic People's Republic of Korea"],
+    "id": "kp",
+    "languages": ["Korean"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 25660000,
+    "gdp": 15847000000,
+    "flag": "kp.svg"
+  },
+  {
+    "names": ["North Macedonia"],
+    "id": "mk",
+    "languages": ["Macedonian", "Albanian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "NATO"],
+    "population": 1832696,
+    "gdp": 14101000000,
+    "flag": "mk.svg"
+  },
+  {
+    "names": ["Northern Cyprus"],
+    "id": "xc",
+    "languages": ["Turkish"],
+    "regions": ["Asia", "Europe", "Middle East"],
+    "orgs": [],
+    "population": 382836,
+    "gdp": 4234000000,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["Northern Mariana Islands"],
+    "id": "mp",
+    "languages": ["Chamorro", "English"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 47329,
+    "gdp": 1182000000,
+    "flag": "mp.svg"
+  },
+  {
+    "names": ["Norway"],
+    "id": "no",
+    "languages": ["Norwegian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "NATO"],
+    "population": 5486480,
+    "gdp": 504703000000,
+    "flag": "no.svg"
+  },
+  {
+    "names": ["Oman"],
+    "id": "om",
+    "languages": ["Arabic"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 4527446,
+    "gdp": 108969000000,
+    "flag": "om.svg"
+  },
+  {
+    "names": ["Pakistan"],
+    "id": "pk",
+    "languages": ["Urdu", "English", "Punjabi"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 231506464,
+    "gdp": 376493000000,
+    "flag": "pk.svg"
+  },
+  {
+    "names": ["Palau"],
+    "id": "pw",
+    "languages": ["Palauan", "English"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 16733,
+    "gdp": 226000000,
+    "flag": "pw.svg"
+  },
+  {
+    "names": ["Palestine", "State of Palestine"],
+    "id": "ps",
+    "languages": ["Arabic"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["Arab League"],
+    "population": 5483450,
+    "gdp": 19698000000,
+    "flag": "ps.svg"
+  },
+  {
+    "names": ["Panama"],
+    "id": "pa",
+    "languages": ["Spanish"],
+    "regions": ["North America", "Central America"],
+    "orgs": ["UN"],
+    "population": 4278500,
+    "gdp": 71085000000,
+    "flag": "pa.svg"
+  },
+  {
+    "names": ["Papua New Guinea", "PNG"],
+    "id": "pg",
+    "languages": ["English", "creole"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 9122994,
+    "gdp": 31362000000,
+    "flag": "pg.svg"
+  },
+  {
+    "names": ["Paraguay"],
+    "id": "py",
+    "languages": ["Guarani", "Spanish"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 7353038,
+    "gdp": 41855000000,
+    "flag": "py.svg"
+  },
+  {
+    "names": ["Peru"],
+    "id": "pe",
+    "languages": ["Spanish"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 33396698,
+    "gdp": 239333000000,
+    "flag": "pe.svg"
+  },
+  {
+    "names": ["Philippines"],
+    "id": "ph",
+    "languages": ["Filipino", "Cebuano", "English"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 110515406,
+    "gdp": 401662000000,
+    "flag": "ph.svg"
+  },
+  {
+    "names": ["Pitcairn Islands"],
+    "id": "pn",
+    "languages": ["English", "creole"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 47,
+    "gdp": 0,
+    "flag": "pn.svg"
+  },
+  {
+    "names": ["Poland"],
+    "id": "pl",
+    "languages": ["Polish"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 37785000,
+    "gdp": 716305000000,
+    "flag": "pl.svg"
+  },
+  {
+    "names": ["Portugal"],
+    "id": "pt",
+    "languages": ["Portuguese"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 10344802,
+    "gdp": 255854000000,
+    "flag": "pt.svg"
+  },
+  {
+    "names": ["Puerto Rico"],
+    "id": "pr",
+    "languages": ["Spanish", "English"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 3285874,
+    "gdp": 118677000000,
+    "flag": "pr.svg"
+  },
+  {
+    "names": ["Qatar"],
+    "id": "qa",
+    "languages": ["Arabic"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 2799202,
+    "gdp": 221369000000,
+    "flag": "qa.svg"
+  },
+  {
+    "names": ["Réunion", "Reunion"],
+    "id": "re",
+    "languages": ["French", "creole"],
+    "regions": ["Africa"],
+    "orgs": ["EU"],
+    "population": 873102,
+    "gdp": 0,
+    "flag": "re.svg"
+  },
+  {
+    "names": ["Republic of the Congo", "Congo-Brazzaville", "Congo Brazzaville"],
+    "id": "cg",
+    "languages": ["French", "Bantu"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 5970000,
+    "gdp": 14486000000,
+    "flag": "cg.svg"
+  },
+  {
+    "names": ["Romania"],
+    "id": "ro",
+    "languages": ["Romanian"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 19053815,
+    "gdp": 299885000000,
+    "flag": "ro.svg"
+  },
+  {
+    "names": ["Russia", "Russian Federation"],
+    "id": "ru",
+    "languages": ["Russian"],
+    "regions": ["Europe", "Asia"],
+    "orgs": ["UN", "CIS"],
+    "population": 143954729,
+    "gdp": 2133092000000,
+    "flag": "ru.svg"
+  },
+  {
+    "names": ["Rwanda"],
+    "id": "rw",
+    "languages": ["Bantu", "French", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 12955768,
+    "gdp": 12098000000,
+    "flag": "rw.svg"
+  },
+  {
+    "names": ["Saint Barthélemy", "Saint Barthelemy", "St Barthélemy", "St Barthelemy"],
+    "id": "bl",
+    "languages": ["French"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["EU"],
+    "population": 10289,
+    "gdp": 0,
+    "flag": "bl.svg"
+  },
+  {
+    "names": ["Saint Helena, Ascension and Tristan da Cunha"],
+    "id": "sh",
+    "languages": ["English"],
+    "regions": [],
+    "orgs": [],
+    "population": 5651,
+    "gdp": 0,
+    "flag": "sh.svg"
+  },
+  {
+    "names": ["Saint Kitts and Nevis"],
+    "id": "kn",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 47606,
+    "gdp": 1115000000,
+    "flag": "kn.svg"
+  },
+  {
+    "names": ["Saint Lucia", "St Lucia"],
+    "id": "lc",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 178696,
+    "gdp": 1972000000,
+    "flag": "lc.svg"
+  },
+  {
+    "names": ["Saint Martin", "St Martin"],
+    "id": "mf",
+    "languages": ["French", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["EU"],
+    "population": 32489,
+    "gdp": 0,
+    "flag": "mf.svg"
+  },
+  {
+    "names": ["Saint Pierre and Miquelon"],
+    "id": "pm",
+    "languages": ["French"],
+    "regions": ["North America"],
+    "orgs": ["EU"],
+    "population": 5974,
+    "gdp": 0,
+    "flag": "pm.svg"
+  },
+  {
+    "names": ["Saint Vincent and the Grenadines"],
+    "id": "vc",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 110696,
+    "gdp": 948000000,
+    "flag": "vc.svg"
+  },
+  {
+    "names": ["Samoa"],
+    "id": "ws",
+    "languages": ["English", "Samoan"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 199853,
+    "gdp": 830000000,
+    "flag": "ws.svg"
+  },
+  {
+    "names": ["San Marino"],
+    "id": "sm",
+    "languages": ["Italian"],
+    "regions": ["Europe"],
+    "orgs": ["UN"],
+    "population": 33785,
+    "gdp": 1623000000,
+    "flag": "sm.svg"
+  },
+  {
+    "names": ["São Tomé and Príncipe"],
+    "id": "st",
+    "languages": ["Portuguese"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 214610,
+    "gdp": 506000000,
+    "flag": "st.svg"
+  },
+  {
+    "names": ["Saudi Arabia"],
+    "id": "sa",
+    "languages": ["Arabic"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 34110821,
+    "gdp": 1010588000000,
+    "flag": "sa.svg"
+  },
+  {
+    "names": ["Senegal"],
+    "id": "sn",
+    "languages": ["Wolof", "French"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 17223497,
+    "gdp": 27542000000,
+    "flag": "sn.svg"
+  },
+  {
+    "names": ["Serbia"],
+    "id": "rs",
+    "languages": ["Serbian"],
+    "regions": ["Europe"],
+    "orgs": ["UN"],
+    "population": 6690887,
+    "gdp": 62721000000,
+    "flag": "rs.svg"
+  },
+  {
+    "names": ["Seychelles"],
+    "id": "sc",
+    "languages": ["English", "French", "creole"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 100447,
+    "gdp": 2005000000,
+    "flag": "sc.svg"
+  },
+  {
+    "names": ["Sierra Leone"],
+    "id": "sl",
+    "languages": ["English", "creole"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 8494260,
+    "gdp": 4101000000,
+    "flag": "sl.svg"
+  },
+  {
+    "names": ["Singapore"],
+    "id": "sg",
+    "languages": ["English", "Chinese"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 5453600,
+    "gdp": 423632000000,
+    "flag": "sg.svg"
+  },
+  {
+    "names": ["Sint Maarten", "St Maarten"],
+    "id": "sx",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 42577,
+    "gdp": 857000000,
+    "flag": "sx.svg"
+  },
+  {
+    "names": ["Slovakia"],
+    "id": "sk",
+    "languages": ["Slovak"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 5431344,
+    "gdp": 112418000000,
+    "flag": "sk.svg"
+  },
+  {
+    "names": ["Slovenia"],
+    "id": "si",
+    "languages": ["Slovene"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 2108977,
+    "gdp": 62191000000,
+    "flag": "si.svg"
+  },
+  {
+    "names": ["Solomon Islands"],
+    "id": "sb",
+    "languages": ["English", "creole"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 728041,
+    "gdp": 1601000000,
+    "flag": "sb.svg"
+  },
+  {
+    "names": ["Somalia"],
+    "id": "so",
+    "languages": ["Somali", "Arabic"],
+    "regions": ["Africa"],
+    "orgs": ["UN", "Arab League"],
+    "population": 11856914,
+    "gdp": 8416000000,
+    "flag": "so.svg"
+  },
+  {
+    "names": ["Somaliland"],
+    "id": "xs",
+    "languages": ["Somali", "Arabic", "English"],
+    "regions": ["Africa"],
+    "orgs": [],
+    "population": 5741086,
+    "gdp": 0,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["South Africa"],
+    "id": "za",
+    "languages": ["Bantu", "Afrikaans", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 60604992,
+    "gdp": 411480000000,
+    "flag": "za.svg"
+  },
+  {
+    "names": ["South Georgia and the South Sandwich Islands"],
+    "id": "gs",
+    "languages": ["English"],
+    "regions": ["Antarctic", "South America"],
+    "orgs": [],
+    "population": 99,
+    "gdp": 0,
+    "flag": "gs.svg"
+  },
+  {
+    "names": ["South Korea", "Republic of Korea"],
+    "id": "kr",
+    "languages": ["Korean"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 51439038,
+    "gdp": 1734207000000,
+    "flag": "kr.svg"
+  },
+  {
+    "names": ["South Ossetia"],
+    "id": "xo",
+    "languages": ["Ossetian", "Georgian", "Russian"],
+    "regions": ["Asia", "Europe"],
+    "orgs": [],
+    "population": 56520,
+    "gdp": 0,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["South Sudan"],
+    "id": "ss",
+    "languages": ["English", "Nilotic"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 13249924,
+    "gdp": 4784000000,
+    "flag": "ss.svg"
+  },
+  {
+    "names": ["Southern Kuril Islands"],
+    "id": "xr",
+    "languages": ["Russian"],
+    "regions": ["Asia"],
+    "orgs": [],
+    "population": 0,
+    "gdp": 0,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["Spain"],
+    "id": "es",
+    "languages": ["Spanish"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU", "NATO"],
+    "population": 47615034,
+    "gdp": 1389927000000,
+    "flag": "es.svg"
+  },
+  {
+    "names": ["Sri Lanka"],
+    "id": "lk",
+    "languages": ["Sinhala", "Tamil"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 22181000,
+    "gdp": 73739000000,
+    "flag": "lk.svg"
+  },
+  {
+    "names": ["Sudan"],
+    "id": "sd",
+    "languages": ["Arabic", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN", "Arab League"],
+    "population": 45175700,
+    "gdp": 42762000000,
+    "flag": "sd.svg"
+  },
+  {
+    "names": ["Suriname"],
+    "id": "sr",
+    "languages": ["Dutch", "creole"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 598000,
+    "gdp": 3011000000,
+    "flag": "sr.svg"
+  },
+  {
+    "names": ["Svalbard"],
+    "id": "xv",
+    "languages": ["Norwegian"],
+    "regions": ["Arctic"],
+    "orgs": [],
+    "population": 2504,
+    "gdp": 0,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["Sweden"],
+    "id": "se",
+    "languages": ["Swedish"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "EU"],
+    "population": 10521556,
+    "gdp": 603922000000,
+    "flag": "se.svg"
+  },
+  {
+    "names": ["Switzerland"],
+    "id": "ch",
+    "languages": ["French", "German", "Italian"],
+    "regions": ["Europe"],
+    "orgs": ["UN"],
+    "population": 8789726,
+    "gdp": 807418000000,
+    "flag": "ch.svg"
+  },
+  {
+    "names": ["Syria"],
+    "id": "sy",
+    "languages": ["Arabic"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 22125000,
+    "gdp": 11080000000,
+    "flag": "sy.svg"
+  },
+  {
+    "names": ["Taiwan"],
+    "id": "tw",
+    "languages": ["Chinese", "Hokkien"],
+    "regions": ["Asia"],
+    "orgs": [],
+    "population": 23375314,
+    "gdp": 828659000000,
+    "flag": "tw.svg"
+  },
+  {
+    "names": ["Tajikistan"],
+    "id": "tj",
+    "languages": ["Persian", "Russian"],
+    "regions": ["Asia"],
+    "orgs": ["UN", "CIS"],
+    "population": 9506000,
+    "gdp": 9983000000,
+    "flag": "tj.svg"
+  },
+  {
+    "names": ["Tanzania"],
+    "id": "tz",
+    "languages": ["Bantu", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 61741120,
+    "gdp": 76582000000,
+    "flag": "tz.svg"
+  },
+  {
+    "names": ["Thailand"],
+    "id": "th",
+    "languages": ["Thai"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 66897805,
+    "gdp": 534758000000,
+    "flag": "th.svg"
+  },
+  {
+    "names": ["Togo"],
+    "id": "tg",
+    "languages": ["French"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 7886000,
+    "gdp": 8359000000,
+    "flag": "tg.svg"
+  },
+  {
+    "names": ["Tokelau"],
+    "id": "tk",
+    "languages": ["Tokelauan", "English"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 1647,
+    "gdp": 0,
+    "flag": "tk.svg"
+  },
+  {
+    "names": ["Tonga"],
+    "id": "to",
+    "languages": ["Tongan", "English"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 100179,
+    "gdp": 501000000,
+    "flag": "to.svg"
+  },
+  {
+    "names": ["Transnistria"],
+    "id": "xp",
+    "languages": ["Russian", "Romanian", "Ukrainian"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 360938,
+    "gdp": 0,
+    "flag": "xx.svg"
+  },
+  {
+    "names": ["Trinidad and Tobago"],
+    "id": "tt",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": ["UN"],
+    "population": 1367558,
+    "gdp": 29337000000,
+    "flag": "tt.svg"
+  },
+  {
+    "names": ["Tunisia"],
+    "id": "tn",
+    "languages": ["Arabic"],
+    "regions": ["Africa"],
+    "orgs": ["UN", "Arab League"],
+    "population": 11803588,
+    "gdp": 46282000000,
+    "flag": "tn.svg"
+  },
+  {
+    "names": ["Turkey, Türkiye"],
+    "id": "tr",
+    "languages": ["Turkish"],
+    "regions": ["Asia", "Europe", "Middle East"],
+    "orgs": ["UN", "NATO"],
+    "population": 85279553,
+    "gdp": 853487000000,
+    "flag": "tr.svg"
+  },
+  {
+    "names": ["Turkmenistan"],
+    "id": "tm",
+    "languages": ["Turkmen"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 6431000,
+    "gdp": 74439000000,
+    "flag": "tm.svg"
+  },
+  {
+    "names": ["Turks and Caicos Islands"],
+    "id": "tc",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 44542,
+    "gdp": 943000000,
+    "flag": "tc.svg"
+  },
+  {
+    "names": ["Tuvalu"],
+    "id": "tv",
+    "languages": ["Tuvaluan", "English"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 10679,
+    "gdp": 64000000,
+    "flag": "tv.svg"
+  },
+  {
+    "names": ["Uganda"],
+    "id": "ug",
+    "languages": ["Bantu", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 42885900,
+    "gdp": 48352000000,
+    "flag": "ug.svg"
+  },
+  {
+    "names": ["Ukraine"],
+    "id": "ua",
+    "languages": ["Ukrainian"],
+    "regions": ["Europe"],
+    "orgs": ["UN"],
+    "population": 37424632,
+    "gdp": 199719000000,
+    "flag": "ua.svg"
+  },
+  {
+    "names": ["United Arab Emirates", "UAE"],
+    "id": "ae",
+    "languages": ["Arabic"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 9282410,
+    "gdp": 503913000000,
+    "flag": "ae.svg"
+  },
+  {
+    "names": ["United Kingdom", "UK"],
+    "id": "gb",
+    "languages": ["English"],
+    "regions": ["Europe"],
+    "orgs": ["UN", "NATO"],
+    "population": 67026292,
+    "gdp": 3198470000000,
+    "flag": "gb.svg"
+  },
+  {
+    "names": ["United States", "United States of America", "USA", "US"],
+    "id": "us",
+    "languages": ["English"],
+    "regions": ["North America"],
+    "orgs": ["UN", "NATO"],
+    "population": 334410487,
+    "gdp": 25035164000000,
+    "flag": "us.svg"
+  },
+  {
+    "names": ["Uruguay"],
+    "id": "uy",
+    "languages": ["Spanish"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 3554915,
+    "gdp": 71161000000,
+    "flag": "uy.svg"
+  },
+  {
+    "names": ["US Virgin Islands"],
+    "id": "vi",
+    "languages": ["English", "creole"],
+    "regions": ["North America", "Caribbean"],
+    "orgs": [],
+    "population": 87146,
+    "gdp": 0,
+    "flag": "vi.svg"
+  },
+  {
+    "names": ["Uzbekistan"],
+    "id": "uz",
+    "languages": ["Uzbek"],
+    "regions": ["Asia"],
+    "orgs": ["UN", "CIS"],
+    "population": 36066948,
+    "gdp": 79117000000,
+    "flag": "uz.svg"
+  },
+  {
+    "names": ["Vanuatu"],
+    "id": "vu",
+    "languages": ["English", "French", "creole"],
+    "regions": ["Oceania"],
+    "orgs": ["UN"],
+    "population": 301295,
+    "gdp": 984000000,
+    "flag": "vu.svg"
+  },
+  {
+    "names": ["Vatican City"],
+    "id": "va",
+    "languages": ["Italian"],
+    "regions": ["Europe"],
+    "orgs": [],
+    "population": 825,
+    "gdp": 0,
+    "flag": "va.svg"
+  },
+  {
+    "names": ["Venezuela"],
+    "id": "ve",
+    "languages": ["Spanish"],
+    "regions": ["South America"],
+    "orgs": ["UN"],
+    "population": 28302000,
+    "gdp": 82145000000,
+    "flag": "ve.svg"
+  },
+  {
+    "names": ["Vietnam"],
+    "id": "vn",
+    "languages": ["Vietnamese"],
+    "regions": ["Asia"],
+    "orgs": ["UN"],
+    "population": 99460000,
+    "gdp": 413808000000,
+    "flag": "vn.svg"
+  },
+  {
+    "names": ["Wallis and Futuna"],
+    "id": "wf",
+    "languages": ["Wallisian", "Futunan", "French"],
+    "regions": ["Oceania"],
+    "orgs": [],
+    "population": 11369,
+    "gdp": 0,
+    "flag": "wf.svg"
+  },
+  {
+    "names": ["Western Sahara"],
+    "id": "eh",
+    "languages": ["Arabic", "Spanish", "Berber"],
+    "regions": ["Africa"],
+    "orgs": [],
+    "population": 576000,
+    "gdp": 1000000000,
+    "flag": "eh.svg"
+  },
+  {
+    "names": ["Yemen"],
+    "id": "ye",
+    "languages": ["Arabic"],
+    "regions": ["Asia", "Middle East"],
+    "orgs": ["UN", "Arab League"],
+    "population": 33697000,
+    "gdp": 27594000000,
+    "flag": "ye.svg"
+  },
+  {
+    "names": ["Zambia"],
+    "id": "zm",
+    "languages": ["Bantu", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 19610769,
+    "gdp": 27025000000,
+    "flag": "zm.svg"
+  },
+  {
+    "names": ["Zimbabwe"],
+    "id": "zw",
+    "languages": ["Bantu", "English"],
+    "regions": ["Africa"],
+    "orgs": ["UN"],
+    "population": 15178979,
+    "gdp": 38280000000,
+    "flag": "zw.svg"
+  }
+]
